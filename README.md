@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ngothanhdat-AK
+- 👋 I'm currently learning in FPT University
 
 
 <!---
