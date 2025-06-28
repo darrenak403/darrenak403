@@ -3,7 +3,7 @@
 </p>
 
 ## 💻 Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,express,redux,js,ts,html,css,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,express,redux,js,ts,html,css,tailwind,bootstrap,sass)](https://skillicons.dev)
 ## 🛠️ Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vitest,docker,maven,mongodb,mysql,figma)](https://skillicons.dev)
 
