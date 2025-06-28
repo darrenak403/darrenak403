@@ -2,8 +2,10 @@
   🌱 I’m currently learning in FPT University.
 </p>
 
-## 💻Technologies and Tools
+## 💻 Programming Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,js,ts,html,css,bootstrap,sass)](https://skillicons.dev)
+## 🛠️ Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,docker,vercel)](https://skillicons.dev)
 
 # GitHub Stats :
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ngothanhdat-AK&theme=radical&hide_border=false)<br/> -->
