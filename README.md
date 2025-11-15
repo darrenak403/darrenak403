@@ -10,5 +10,5 @@
 
 ---
 
-📧 Email: ngothanhdat4002@gmail.com  
+**Email:** ngothanhdat4002@gmail.com  
 **LinkedIn:** [linkedin.com/in/darrenak403](https://www.linkedin.com/in/darrenak403/)
