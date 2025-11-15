@@ -3,9 +3,7 @@
 </p>
 
 ## 💻 Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,flutter,express,redux,js,ts,tailwind,bootstrap,sass)](https://skillicons.dev)
-## 🛠️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vitest,docker,maven,mongodb,mysql,vercel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,flutter,express)](https://skillicons.dev)
 
 # GitHub Stats :
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ngothanhdat-AK&theme=radical&hide_border=false)<br/> -->
@@ -13,3 +11,4 @@
 
 <hr>
 Email: ngothanhdat4002@gmail.com
+LinkedIn: www.linkedin.com/in/darrenak403/
