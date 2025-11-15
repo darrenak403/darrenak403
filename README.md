@@ -8,6 +8,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoYXQwY24wOG5qa3plbjVhMGl6aTNoZGFhc2Z6anFibmNreTJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="400" />
 </div>
 
+## 👨‍💻 About Me
+
+I'm a **Frontend Developer** passionate about building intuitive and efficient user interfaces. My journey in software development is driven by a deep interest in **design patterns** and **software architecture**, always seeking to write clean, maintainable, and scalable code.
+Currently focused on mastering frontend technologies, I'm constantly exploring architectural principles and best practices that elevate code quality. My long-term vision is to transition into a **Full-Stack Developer** role, combining my frontend expertise with robust backend development skills.
+
 ## 💻 Programming Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nextjs,flutter)](https://skillicons.dev)
 
