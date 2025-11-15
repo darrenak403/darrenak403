@@ -3,7 +3,7 @@
 </p>
 
 ## 💻 Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,flutter,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nextjs,flutter)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenak403&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
