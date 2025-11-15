@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=6000&pause=1000&color=32AEE5&width=435&lines=Hi%2C+my+name+is+Dat+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=6000&pause=1000&color=32AEE5&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Dat+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,11 +13,9 @@
 </p>
 
 ## 💻 Programming Languages & Frameworks
-
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nextjs,flutter)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenak403&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
