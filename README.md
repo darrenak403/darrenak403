@@ -11,4 +11,5 @@
 
 <hr>
 Email: ngothanhdat4002@gmail.com
-LinkedIn: www.linkedin.com/in/darrenak403/
+
+LinkedIn: linkedin.com/in/darrenak403/
