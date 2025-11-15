@@ -12,4 +12,4 @@
 <hr>
 Email: ngothanhdat4002@gmail.com
 
-<strong>LinkedIn:</strong> <a href="www.linkedin.com/in/darrenak403/">linkedin.com/darrenak403</a>
+<strong>LinkedIn:</strong> <a href="www.linkedin.com/in/darrenak403/](https://www.linkedin.com/in/darrenak403/">linkedin.com/darrenak403</a>
