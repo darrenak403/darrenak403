@@ -14,7 +14,7 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
 Currently focused on mastering frontend technologies, I'm constantly exploring architectural principles and best practices that elevate code quality. My long-term vision is to transition into a **Full-Stack Developer** role, combining my frontend expertise with robust backend development skills.
 
 ## 💻 Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nextjs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nextjs,flutter,docker)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrenak403&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
