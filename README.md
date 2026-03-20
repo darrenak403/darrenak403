@@ -10,8 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building intuitive and efficient user interfaces. My journey in software development is driven by a deep interest in **design patterns** and **software architecture**, always seeking to write clean, maintainable, and scalable code.
-Currently focused on mastering frontend technologies, I'm constantly exploring architectural principles and best practices that elevate code quality. My long-term vision is to transition into a **Full-Stack Developer** role, combining my frontend expertise with robust backend development skills.
+I'm a passionate **Software Engineer** with a strong foundation in **Frontend Development** and a primary focus on **Backend Development** using **.NET**. Having built numerous frontend projects, I have a deep understanding of what it takes to deliver intuitive and seamless user experiences. 
+
+Currently, I'm diving deep into building robust backend systems, exploring **design patterns**, and mastering **software architecture** to write clean, maintainable, and scalable code. Beyond application development, I have hands-on experience with **DevOps** and **self-hosting**, allowing me to deploy and manage the full lifecycle of my applications. 
+
+My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridging the gap between elegant user interfaces and powerful, resilient backend infrastructures.
 
 ## 💻 Programming Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=dotnet,go,express,react,nextjs,flutter,docker)](https://skillicons.dev)
