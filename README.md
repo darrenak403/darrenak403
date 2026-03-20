@@ -12,7 +12,7 @@
 
 I'm a passionate **Software Engineer** with a strong foundation in **Frontend Development** and a primary focus on **Backend Development** using **.NET**. Having built numerous frontend projects, I have a deep understanding of what it takes to deliver intuitive and seamless user experiences. 
 
-Currently, I'm diving deep into building robust backend systems, exploring **design patterns**, and mastering **software architecture** to write clean, maintainable, and scalable code. Beyond application development, I have hands-on experience with **DevOps** and **self-hosting**, allowing me to deploy and manage the full lifecycle of my applications. 
+Currently, I'm diving deep into building robust backend systems, exploring **design patterns**, and mastering **software architecture** to write clean, maintainable, and scalable code. Any application development, I have hands-on experience with **DevOps** and **self-hosting**, allowing me to deploy and manage the full lifecycle of my applications. 
 
 My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridging the gap between elegant user interfaces and powerful, resilient backend infrastructures.
 
