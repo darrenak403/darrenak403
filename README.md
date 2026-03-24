@@ -19,6 +19,9 @@ My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridg
 ## 💻 Programming Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=dotnet,go,express,react,nextjs,flutter,docker)](https://skillicons.dev)
 
+**Languages & Frameworks** [![Languages](https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,react,nextjs,express,flutter)](https://skillicons.dev)
+
+**Production, DevOps & Tools** [![Production](https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,git,githubactions)](https://skillicons.dev)
 
 **Email:** ngothanhdat4002@gmail.com  
 **LinkedIn:** [linkedin.com/in/darrenak403](https://www.linkedin.com/in/darrenak403/)
