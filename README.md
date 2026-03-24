@@ -20,7 +20,7 @@ My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridg
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,react,nextjs,express,flutter)](https://skillicons.dev)
 
-**Production, DevOps & Tools** 
+## 💻 Production, DevOps & Tools
 [![Production](https://skillicons.dev/icons?i=docker,linux,cloudflare,githubactions,k6)](https://skillicons.dev)
 
 ---
