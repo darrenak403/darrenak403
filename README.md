@@ -16,11 +16,11 @@ Currently, I'm diving deep into building robust backend systems, exploring **des
 
 My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridging the gap between elegant user interfaces and powerful, resilient backend infrastructures.
 
-# Programming Languages & Frameworks
+### Programming Languages & Frameworks
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,react,nextjs,express,flutter)](https://skillicons.dev)
 
-# DevOps & Tools
+### DevOps & Tools
 [![Production](https://skillicons.dev/icons?i=docker,linux,cloudflare,githubactions,grafana)](https://skillicons.dev)
 
 ---
