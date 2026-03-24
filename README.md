@@ -8,7 +8,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoYXQwY24wOG5qa3plbjVhMGl6aTNoZGFhc2Z6anFibmNreTJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="400" />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Software Engineer** with a strong foundation in **Frontend Development** and a primary focus on **Backend Development** using **.NET**. Having built numerous frontend projects, I have a deep understanding of what it takes to deliver intuitive and seamless user experiences. 
 
@@ -16,11 +16,11 @@ Currently, I'm diving deep into building robust backend systems, exploring **des
 
 My ultimate vision is to excel as a well-rounded **Full-Stack Developer**, bridging the gap between elegant user interfaces and powerful, resilient backend infrastructures.
 
-# 💻 Programming Languages & Frameworks
+# Programming Languages & Frameworks
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,react,nextjs,express,flutter)](https://skillicons.dev)
 
-# Production, DevOps & Tools
+# DevOps & Tools
 [![Production](https://skillicons.dev/icons?i=docker,linux,cloudflare,githubactions,grafana)](https://skillicons.dev)
 
 ---
