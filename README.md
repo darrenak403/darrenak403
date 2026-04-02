@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoYXQwY24wOG5qa3plbjVhMGl6aTNoZGFhc2Z6anFibmNreTJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="400" />
-</div>
-
 ## About Me
 
 I'm a passionate **Software Engineer** with a strong foundation in **Frontend Development** and a primary focus on **Backend Development** using **.NET**. Having built numerous frontend projects, I have a deep understanding of what it takes to deliver intuitive and seamless user experiences. 
